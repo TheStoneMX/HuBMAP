@@ -1,5 +1,4 @@
 # 4th place solution to the HuBMAP - Hacking the Kidney Kaggle Competition
-#### Authors : [@theoviel](https://github.com/theoviel), [@optimox](https://github.com/Optimox), [@iafoss](https://github.com/iafoss)
 
 #### Status :
 - Document code : Done
