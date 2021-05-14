@@ -1,4 +1,4 @@
-# 4th place solution to the HuBMAP - Hacking the Kidney Kaggle Competition
+## lafoss 4th place solution to the HuBMAP - Hacking the Kidney Kaggle Competition
 
 #### Status :
 - Document code : Done
